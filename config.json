@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsarse",
+        "uuid": 1898800,
+        "checksum": "dsclgd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
